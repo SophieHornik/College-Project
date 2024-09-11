@@ -1,0 +1,10 @@
+.title{
+color: black;
+}
+.bg-hero-image{
+    background-image: url("hero.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Lilita One', sans-serif;
+}
