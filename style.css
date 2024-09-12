@@ -2,9 +2,24 @@
 color: black;
 }
 .bg-hero-image{
-    background-image: url("hero.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Lilita One', sans-serif;
 }
+#parallax {
+    background-image: url("hero.jpg");
+    /* The image used */
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    margin-left: -10px;
+    margin-right: -10px;
+  }
