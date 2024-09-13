@@ -12,7 +12,7 @@ color: black;
     /* The image used */
   
     /* Set a specific height */
-    min-height: 300px;
+    min-height: 700px;
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -92,8 +92,7 @@ color: black;
 }
   .title{
     text-align: center;
-    margin-top: 20%;
-    margin-bottom: 15%;
+
     background-color: transparent !important;
     color: #BF5700;
   }
