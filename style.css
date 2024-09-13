@@ -74,7 +74,31 @@ color: black;
 
   .navbar{
     background-color: white;
+    margin: 0px;
   }
   .info{
    background-color: white;
+  }
+  #logo{
+    background-color: transparent;
+    border-color: transparent;
+    background-image: url("planelonghorn.png");
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    background-size: 40px;
+    background-position: center,center;
+    background-repeat: no-repeat;
+}
+  .title{
+    text-align: center;
+    margin-top: 2px;
+    margin-bottom: 50%;
+    background-color: transparent;
+    color: #BF5700;
+  }
+  .h1title{
+    background-color: transparent;
+    color: #BF5700;
+    font-size: 5rem;
   }
