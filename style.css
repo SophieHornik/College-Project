@@ -12,7 +12,7 @@ color: black;
     /* The image used */
   
     /* Set a specific height */
-    min-height: 500px;
+    min-height: 300px;
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -74,4 +74,7 @@ color: black;
 
   .navbar{
     background-color: white;
+  }
+  .info{
+   background-color: white;
   }
