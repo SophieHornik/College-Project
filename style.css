@@ -77,7 +77,7 @@ color: black;
     margin: 0px;
   }
   .info{
-   background-color: white;
+   background-color:white;
   }
   #logo{
     background-color: transparent;
@@ -92,13 +92,20 @@ color: black;
 }
   .title{
     text-align: center;
-    margin-top: 2px;
-    margin-bottom: 50%;
-    background-color: transparent;
+    margin-top: 20%;
+    margin-bottom: 15%;
+    background-color: transparent !important;
     color: #BF5700;
   }
   .h1title{
     background-color: transparent;
     color: #BF5700;
     font-size: 5rem;
+  }
+  .titlebg{
+    background-color: transparent;
+    margin: 0px;
+  }
+  .clearbg{
+    background-color: transparent;
   }
