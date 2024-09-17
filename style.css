@@ -119,9 +119,30 @@ color: black;
     text-align: center;
   }
   .info{
-    margin: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
   }
   #paragraphTitle{
     color: #BF5700;
     font-size: 2rem;
   }
+  .responsive-map{
+    overflow: hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+   background-color: #BF5700;
+   margin-left: 10%;
+   margin-right: 10%;
+   width: 700px;
+   text-align: center;
+   justify-content: center;
+    }
+    .responsive-map iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    background-color: #BF5700;
+    }
