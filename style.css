@@ -1,7 +1,6 @@
 .html{
   background-image: url("hero.jpg");
   background-attachment: fixed;
-  margin: 20px;
 }
 
 .title{
@@ -25,11 +24,20 @@ color: black;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-  
-    margin-left: -10px;
-    margin-right: -10px;
   }
-
+  #parallax2 {
+    background-image: url("hero.jpg");
+    /* The image used */
+  
+    /* Set a specific height */
+    min-height: 100px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
   /*nav style */
   .navbar-brand {
     color:#BF5700
@@ -120,30 +128,11 @@ color: black;
     text-align: center;
   }
   .info{
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 50px;
+    margin-right: 50px;
   }
   #paragraphTitle{
     color: #BF5700;
     font-size: 2rem;
   }
-  .responsive-map{
-    overflow: hidden;
-    padding-bottom:56.25%;
-    position:relative;
-    height:0;
-   background-color: #BF5700;
-   margin-left: 10%;
-   margin-right: 10%;
-   height:0.5rem;
-   text-align: center;
-   justify-content: center;
-    }
-    .responsive-map iframe{
-    left:0;
-    top:0;
-    height:100%;
-    width:100%;
-    position:absolute;
-    background-color: #BF5700;
-    }
+ 
