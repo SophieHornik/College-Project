@@ -1,6 +1,7 @@
 .html{
   background-image: url("hero.jpg");
   background-attachment: fixed;
+  background-color: black;
 }
 
 .title{
@@ -31,6 +32,19 @@ color: black;
   
     /* Set a specific height */
     min-height: 100px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #parallax3 {
+    background-image: url("hero.jpg");
+    /* The image used */
+  
+    /* Set a specific height */
+    min-height: 400px;
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -87,11 +101,11 @@ color: black;
   }
 
   .navbar{
-    background-color: white;
+    background-color: rgb(0, 0, 0);
    
   }
   .info{
-   background-color:white;
+   background-color:rgb(0, 0, 0);
   }
   #logo{
     background-color: transparent;
@@ -116,22 +130,27 @@ color: black;
     font-size: 5rem;
   }
   .titlebg{
-    background-color: transparent;
+    background-color: black;
     margin: 0px;
   }
   .clearbg{
     background-color: transparent;
   }
   #howdy{
-    color: #BF5700;
-    background-color: rgba(0, 0, 0, 0.2);
+    color: white;
+    background-color: #BF5700;
     text-align: center;
   }
   .info{
-  
+    background-color: black;
   }
   #paragraphTitle{
     color: #BF5700;
     font-size: 2rem;
   }
- 
+ .marginpls{
+  margin-right: 20%;
+  margin-left: 20%;
+  background-color: black;
+  color: #fff;
+ }
