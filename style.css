@@ -88,7 +88,7 @@ color: black;
 
   .navbar{
     background-color: white;
-    margin: 0px;
+   
   }
   .info{
    background-color:white;
@@ -128,8 +128,7 @@ color: black;
     text-align: center;
   }
   .info{
-    margin-left: 50px;
-    margin-right: 50px;
+  
   }
   #paragraphTitle{
     color: #BF5700;
