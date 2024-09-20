@@ -170,7 +170,9 @@ margin-right: 10%;
   background-color: black;
   border-radius: 100%;
   border-color: #BF5700;
+  border-width: 2px;
   margin-right: 10%;
+  background-color: #BF5700;
    }
    .protest-guerrilla-regular {
     font-family: "Protest Guerrilla", sans-serif;
@@ -189,6 +191,11 @@ margin-right: 10%;
     font-style: normal;
   }
   #actualbtn{
+    background-color: black;
+    border-radius: 100%;
+    border-color: transparent;
+  }
+  #actualbtn:hover{
     background-color: black;
     border-radius: 100%;
   }
