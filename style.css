@@ -1,6 +1,6 @@
-.html{
+html{
   background-image: url("hero.jpg");
-  background-attachment: fixed;
+  overflow-x: hidden;
   background-color: black;
 }
 
@@ -123,6 +123,7 @@ color: black;
 
     background-color: transparent !important;
     color: #BF5700;
+    font-family: protest-guerrilla-regular;
   }
   .h1title{
     background-color: transparent;
@@ -147,10 +148,47 @@ color: black;
   #paragraphTitle{
     color: #BF5700;
     font-size: 2rem;
+    font-family: protest-guerrilla-regular;
   }
  .marginpls{
-  margin-right: 20%;
-  margin-left: 20%;
+  margin-right: 5%;
+  margin-left: 10%;
   background-color: black;
   color: #fff;
  }
+ #bevo{
+background-repeat: no-repeat;
+background-position: center;
+background-color: black;
+border-radius: 100%;
+border-color: transparent;
+margin-right: 10%;
+ }
+ #bevo:hover{
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: black;
+  border-radius: 100%;
+  border-color: #BF5700;
+  margin-right: 10%;
+   }
+   .protest-guerrilla-regular {
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .barlow-condensed-thin {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .barlow-condensed-regular {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  #actualbtn{
+    background-color: black;
+    border-radius: 100%;
+  }
