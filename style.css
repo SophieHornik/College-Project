@@ -246,3 +246,8 @@ margin-bottom: 10%;
   background-color: #000000;
  background-position: center;
  }
+ .actlvid{
+  margin: 20%;
+  height: 15em;
+  border:5px solid #BF5700;
+ }
