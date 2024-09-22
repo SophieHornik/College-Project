@@ -167,18 +167,35 @@ border-radius: 100%;
 border-color: transparent;
 margin-right: 10%;
 border:5px solid #000000;
+margin-bottom: 10%;
+background-image: url("orangehookem.png");
  }
  #bevo:hover{
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: left;
   background-color: black;
   border-radius: 100%;
   border-color: #BF5700;
   border-width: 20px;
   margin-right: 10%;
-  background-color: #ffffff;
+  background-image: url("realbevo1.jpg");
   border:5px solid #BF5700;
+  margin-bottom: 10%;
+  background-size: cover;
    }
+   #bevo:active{
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: black;
+    border-radius: 100%;
+    border-color: #BF5700;
+    border-width: 20px;
+    margin-right: 10%;
+    background-image: url("realbevo2.jpg");
+    border:5px solid #BF5700;
+    margin-bottom: 10%;
+    background-size: cover;
+     }
    .protest-guerrilla-regular {
     font-family: "Protest Guerrilla", sans-serif;
     font-weight: 400;
