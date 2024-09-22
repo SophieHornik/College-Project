@@ -3,7 +3,9 @@ html{
   overflow-x: hidden;
   background-color: black;
 }
-
+body{
+  background-color: #000000;
+}
 .title{
 color: black;
 }
@@ -71,6 +73,13 @@ color: black;
     background-color: transparent;
     text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
   }
+  .navbar-brand:active{
+    color: #BF5700;
+    font-family: 'Lilita One', sans-serif;
+    background-color: transparent;
+    text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
+  }
+  
   
   .nav-link{
     color: #BF5700;
@@ -101,7 +110,7 @@ color: black;
   }
 
   .navbar{
-    background-color: rgb(0, 0, 0);
+    background-color: black;
    
   }
   .info{
@@ -158,6 +167,16 @@ color: black;
   border-radius: 5px;
   border:5px solid #BF5700;
   margin-bottom: 10%;
+ }
+ .marginplss{
+  margin-right: 5%;
+  margin-left: 10%;
+  background-color: rgb(255, 255, 255);
+  color: #BF5700;
+  border-radius: 5px;
+  border:5px solid #BF5700;
+  margin-bottom: 10%;
+  margin-top: 10%;
  }
  #bevo{
 background-repeat: no-repeat;
@@ -222,4 +241,8 @@ margin-bottom: 10%;
   }
  .customize{
   text-decoration: underline;
+ }
+ .vid{
+  background-color: #000000;
+ background-position: center;
  }
