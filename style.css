@@ -1,13 +1,13 @@
 html{
   background-image: url("hero.jpg");
   overflow-x: hidden;
-  background-color: black;
+  background-color: rgb(255, 255, 255);
 }
 body{
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .title{
-color: black;
+color: rgb(255, 255, 255);
 }
 .bg-hero-image{
     background-position: center center;
@@ -33,7 +33,7 @@ color: black;
     /* The image used */
   
     /* Set a specific height */
-    min-height: 200px;
+    min-height: 250px;
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -110,11 +110,11 @@ color: black;
   }
 
   .navbar{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
    
   }
   .info{
-   background-color:rgb(0, 0, 0);
+   background-color:rgb(255, 255, 255);
   }
   #logo{
     background-color: transparent;
@@ -140,7 +140,7 @@ color: black;
     font-size: 5rem;
   }
   .titlebg{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     margin: 0px;
   }
   .clearbg{
@@ -152,18 +152,18 @@ color: black;
     text-align: center;
   }
   .info{
-    background-color: #000000;
+    background-color: #ffffff;
   }
   #paragraphTitle{
-    color: #BF5700;
+    color: #ffffff;
     font-size: 2rem;
     font-family: protest-guerrilla-regular;
   }
  .marginpls{
   margin-right: 5%;
   margin-left: 10%;
-  background-color: rgb(255, 255, 255);
-  color: #BF5700;
+  background-color: #BF5700;
+  color: #ffffff;
   border-radius: 5px;
   border:5px solid #BF5700;
   margin-bottom: 10%;
@@ -172,28 +172,28 @@ color: black;
  .marginplss{
   margin-right: 5%;
   margin-left: 10%;
-  background-color: rgb(255, 255, 255);
-  color: #BF5700;
+  background-color: #BF5700;
+  color: #ffffff;
   border-radius: 5px;
   border:5px solid #BF5700;
   margin-bottom: 10%;
-  margin-top: 10%;
+  margin-top: 0%;
   padding: 3%;
  }
  #bevo{
 background-repeat: no-repeat;
 background-position: center;
-background-color: black;
+background-color: #ffffff;
 border-radius: 100%;
 border-color: transparent;
 margin-right: 10%;
-border:5px solid #000000;
+border:5px solid #BF5700;
 margin-bottom: 10%;
  }
  #bevo:hover{
   background-repeat: no-repeat;
   background-position: left;
-  background-color: black;
+  background-color: rgb(255, 255, 255);
   border-radius: 100%;
   border-color: #BF5700;
   border-width: 20px;
@@ -206,7 +206,7 @@ margin-bottom: 10%;
    #bevo:active{
     background-repeat: no-repeat;
     background-position: right;
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     border-radius: 100%;
     border-color: #BF5700;
     border-width: 20px;
@@ -233,23 +233,14 @@ margin-bottom: 10%;
     font-style: normal;
   }
   #actualbtn{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     border-radius: 100%;
     border-color: transparent;
   }
   #actualbtn:hover{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     border-radius: 100%;
   }
  .customize{
   text-decoration: underline;
- }
- .vid{
-  background-color: #000000;
- background-position: center;
- }
- .actlvid{
-  margin: 20%;
-  height: 15em;
-  border:5px solid #BF5700;
  }
