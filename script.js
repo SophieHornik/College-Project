@@ -1,4 +1,15 @@
 function bevoBtn() {
     alert("The live mascot at UT is Bevo the longhorn!");
 }
-let name = prompt('Enter your name:')
+let name1 = prompt('Enter your name:')
+
+
+name1 = `<span class="customize">${name1}</span>`
+
+let insert = `Howdy ${name1}! welcome to`
+
+let story = `${insert}`
+
+let madLibOutputDiv = document.getElementById('name')
+
+madLibOutputDiv.innerHTML = `<div class = "story">${story}<div>`

@@ -168,7 +168,6 @@ border-color: transparent;
 margin-right: 10%;
 border:5px solid #000000;
 margin-bottom: 10%;
-background-image: url("orangehookem.png");
  }
  #bevo:hover{
   background-repeat: no-repeat;
@@ -221,4 +220,6 @@ background-image: url("orangehookem.png");
     background-color: black;
     border-radius: 100%;
   }
- 
+ .customize{
+  text-decoration: underline;
+ }
