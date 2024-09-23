@@ -149,20 +149,24 @@ color: rgb(255, 255, 255);
   .nav-link{
     color: #ffffff;
     font-family: 'Lilita One', sans-serif;
+    border-radius: 100%;
   }
   .nav-link:visited{
     color: #ffffff;
     font-family: 'Lilita One', sans-serif;
+    border-radius: 100%;
   }
   .nav-link:hover{
-    color: #ffffff;
+    color: #BF5700;
     font-family: 'Lilita One', sans-serif;
-    text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
+    background-color: white;
+    border-radius: 100%;
   }
   
   .nav-link:active{
-    color: #ffffff;
+    color: #BF5700;
     font-family: 'Lilita One', sans-serif;
+    border-radius: 100%;
   }
   
   .navbar-toggler-icon{
