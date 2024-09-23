@@ -170,7 +170,7 @@ color: rgb(255, 255, 255);
   padding: 3%;
  }
  .marginplss{
-  margin-right: 5%;
+  margin-right: 0%;
   margin-left: 10%;
   background-color: #BF5700;
   color: #ffffff;
@@ -179,6 +179,7 @@ color: rgb(255, 255, 255);
   margin-bottom: 10%;
   margin-top: 0%;
   padding: 3%;
+  align-items: center;
  }
  #bevo{
 background-repeat: no-repeat;
@@ -194,7 +195,7 @@ margin-bottom: 10%;
   background-repeat: no-repeat;
   background-position: left;
   background-color: rgb(255, 255, 255);
-  border-radius: 100%;
+  border-radius: 0%;
   border-color: #BF5700;
   border-width: 20px;
   margin-right: 10%;
@@ -207,7 +208,7 @@ margin-bottom: 10%;
     background-repeat: no-repeat;
     background-position: right;
     background-color: rgb(255, 255, 255);
-    border-radius: 100%;
+    border-radius: 0%;
     border-color: #BF5700;
     border-width: 20px;
     margin-right: 10%;
@@ -244,3 +245,11 @@ margin-bottom: 10%;
  .customize{
   text-decoration: underline;
  }
+.actlvid{
+  border:5px solid #BF5700;
+  align-items: center;
+}
+.vid{
+  padding-left: 5%;
+  align-items: center;
+}
