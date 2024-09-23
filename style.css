@@ -228,6 +228,11 @@ color: rgb(255, 255, 255);
     font-size: 2rem;
     font-family: protest-guerrilla-regular;
   }
+  #paragraphTitle2{
+    color: #BF5700;
+    font-size: 2rem;
+    font-family: protest-guerrilla-regular;
+  }
  .marginpls{
   margin-right: 5%;
   margin-left: 10%;
@@ -348,4 +353,24 @@ hr{
 .cent{
   text-align: center;
   align-items: center;
+}
+
+div.listy {
+  text-align: center;
+  background-image: url("texas.jpg");
+  background-size: 160px;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #BF5700;
+  background-color: #ffffff;
+  margin-top: 5%;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+  color: #BF5700;
+}
+.link{
+  color: #BF5700;
 }
