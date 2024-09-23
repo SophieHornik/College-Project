@@ -68,7 +68,33 @@ color: rgb(255, 255, 255);
     background-size: cover;
   }
   #parallax5 {
-    background-image: url("library.jpeg");
+    background-image: url("lbj.jpg");
+    /* The image used */
+  
+    /* Set a specific height */
+    min-height: 250px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #parallax6 {
+    background-image: url("flags.jpg");
+    /* The image used */
+  
+    /* Set a specific height */
+    min-height: 250px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #parallax7 {
+    background-image: url("prettyut.jpg");
     /* The image used */
   
     /* Set a specific height */
@@ -288,4 +314,14 @@ margin-bottom: 10%;
   border:5px solid #BF5700;
   background-color: #BF5700;
   padding: 0%;
+}
+.card{
+  align-items: center;
+margin-bottom: 10%;
+margin-left: 20%;
+margin-right: 10%;
+border:5px solid #BF5700;
+border-radius: 2%;
+background-color: #BF5700;
+color: #fff;
 }
