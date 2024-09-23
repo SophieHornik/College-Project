@@ -54,6 +54,32 @@ color: rgb(255, 255, 255);
     background-repeat: no-repeat;
     background-size: cover;
   }
+  #parallax4 {
+    background-image: url("studentlifepic.jpg");
+    /* The image used */
+  
+    /* Set a specific height */
+    min-height: 250px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #parallax5 {
+    background-image: url("library.jpeg");
+    /* The image used */
+  
+    /* Set a specific height */
+    min-height: 250px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
   /*nav style */
   .navbar-brand {
     color:#ffffff
@@ -254,6 +280,11 @@ margin-bottom: 10%;
   align-items: center;
 }
 .map{
+  border:5px solid #BF5700;
+  background-color: #BF5700;
+  padding: 0%;
+}
+#students{
   border:5px solid #BF5700;
   background-color: #BF5700;
   padding: 0%;
