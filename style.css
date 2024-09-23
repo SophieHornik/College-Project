@@ -148,24 +148,25 @@ color: rgb(255, 255, 255);
   .nav-link{
     color: #ffffff;
     font-family: 'Lilita One', sans-serif;
-    border-radius: 100%;
+  
   }
   .nav-link:visited{
     color: #ffffff;
     font-family: 'Lilita One', sans-serif;
-    border-radius: 100%;
   }
   .nav-link:hover{
-    color: #BF5700;
+    color: #ffffff;
     font-family: 'Lilita One', sans-serif;
-    background-color: white;
-    border-radius: 100%;
+    background-color: #BF5700;
+    background-image: url("hookemhand.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50px;
   }
   
   .nav-link:active{
     color: #BF5700;
     font-family: 'Lilita One', sans-serif;
-    border-radius: 100%;
   }
   
   .navbar-toggler-icon{
