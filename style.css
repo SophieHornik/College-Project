@@ -253,3 +253,8 @@ margin-bottom: 10%;
   padding-left: 5%;
   align-items: center;
 }
+.map{
+  border:5px solid #BF5700;
+  background-color: #BF5700;
+  padding: 0%;
+}
