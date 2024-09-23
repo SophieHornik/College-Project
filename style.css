@@ -127,8 +127,7 @@ color: rgb(255, 255, 255);
     background-color: transparent;
   }
   .navbar-brand:visited{
-    color:#ffffff
-    ;
+    color:#ffffff !important;
     font-family: 'Lilita One', sans-serif;
     background-color: transparent;
   }
@@ -344,4 +343,8 @@ color: #fff;
 }
 hr{
   border-top: 5px dotted #BF5700;
+}
+.cent{
+  text-align: center;
+  align-items: center;
 }
