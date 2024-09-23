@@ -325,3 +325,6 @@ border-radius: 2%;
 background-color: #BF5700;
 color: #fff;
 }
+hr{
+  border-top: 5px dotted #BF5700;
+}
