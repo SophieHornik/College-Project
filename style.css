@@ -56,25 +56,25 @@ color: rgb(255, 255, 255);
   }
   /*nav style */
   .navbar-brand {
-    color:#BF5700
+    color:#ffffff
     ;
     font-family: 'Lilita One', sans-serif;
     background-color: transparent;
   }
   .navbar-brand:visited{
-    color:#BF5700
+    color:#ffffff
     ;
     font-family: 'Lilita One', sans-serif;
     background-color: transparent;
   }
   .navbar-brand:hover{
-    color: #BF5700;
+    color: #ffffff;
     font-family: 'Lilita One', sans-serif;
     background-color: transparent;
     text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
   }
   .navbar-brand:active{
-    color: #BF5700;
+    color: #ffffff;
     font-family: 'Lilita One', sans-serif;
     background-color: transparent;
     text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
@@ -82,26 +82,26 @@ color: rgb(255, 255, 255);
   
   
   .nav-link{
-    color: #BF5700;
+    color: #ffffff;
     font-family: 'Lilita One', sans-serif;
   }
   .nav-link:visited{
-    color: #BF5700;
+    color: #ffffff;
     font-family: 'Lilita One', sans-serif;
   }
   .nav-link:hover{
-    color: #BF5700;
+    color: #ffffff;
     font-family: 'Lilita One', sans-serif;
     text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
   }
   
   .nav-link:active{
-    color: #BF5700;
+    color: #ffffff;
     font-family: 'Lilita One', sans-serif;
   }
   
   .navbar-toggler-icon{
-    color: #BF5700 ;
+    color: #ffffff ;
     font-family: 'Lilita One', sans-serif;
   }
   
@@ -110,7 +110,7 @@ color: rgb(255, 255, 255);
   }
 
   .navbar{
-    background-color: rgb(255, 255, 255);
+    background-color: #BF5700;
    
   }
   .info{
@@ -119,7 +119,7 @@ color: rgb(255, 255, 255);
   #logo{
     background-color: transparent;
     border-color: transparent;
-    background-image: url("planelonghorn.png");
+    background-image: url("whitelonghorn.png");
     height: 60px;
     width: 60px;
     border-radius: 100%;

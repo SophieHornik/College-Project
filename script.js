@@ -6,7 +6,7 @@ let name1 = prompt('Enter your name:')
 
 name1 = `<span class="customize">${name1}</span>`
 
-let insert = `Howdy ${name1}! welcome to`
+let insert = `Howdy ${name1}! Welcome to`
 
 let story = `${insert}`
 
