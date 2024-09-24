@@ -245,7 +245,7 @@ color: rgb(255, 255, 255);
  }
  .marginplss{
   margin-right: 0%;
-  margin-left: 10%;
+  margin-left: 5%;
   background-color: #BF5700;
   color: #ffffff;
   border-radius: 5px;
@@ -338,14 +338,14 @@ margin-bottom: 10%;
   padding: 0%;
 }
 .card{
-  align-items: center;
 margin-bottom: 10%;
-margin-left: 20%;
+margin-left: 15%;
 margin-right: 10%;
 border:5px solid #BF5700;
 border-radius: 2%;
 background-color: #BF5700;
 color: #fff;
+align-items: center;
 }
 hr{
   border-top: 5px dotted #BF5700;
