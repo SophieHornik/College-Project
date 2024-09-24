@@ -242,6 +242,7 @@ color: rgb(255, 255, 255);
   border:5px solid #BF5700;
   margin-bottom: 10%;
   padding: 3%;
+  box-shadow: 3px 3px 3px rgb(122, 122, 122);
  }
  .marginplss{
   margin-right: 0%;
@@ -254,6 +255,7 @@ color: rgb(255, 255, 255);
   margin-top: 0%;
   padding: 3%;
   align-items: center;
+  box-shadow: 3px 3px 3px rgb(122, 122, 122);
  }
  #bevo{
 background-repeat: no-repeat;
@@ -264,6 +266,7 @@ border-color: transparent;
 margin-right: 10%;
 border:5px solid #BF5700;
 margin-bottom: 10%;
+box-shadow: 3px 3px 3px rgb(122, 122, 122);
  }
  #bevo:hover{
   background-repeat: no-repeat;
@@ -277,6 +280,7 @@ margin-bottom: 10%;
   border:5px solid #BF5700;
   margin-bottom: 10%;
   background-size: cover;
+  box-shadow: 3px 3px 3px rgb(122, 122, 122);
    }
    #bevo:active{
     background-repeat: no-repeat;
@@ -290,6 +294,7 @@ margin-bottom: 10%;
     border:5px solid #BF5700;
     margin-bottom: 10%;
     background-size: cover;
+    box-shadow: 3px 3px 3px rgb(122, 122, 122);
      }
    .protest-guerrilla-regular {
     font-family: "Protest Guerrilla", sans-serif;
@@ -318,24 +323,29 @@ margin-bottom: 10%;
   }
  .customize{
   text-decoration: underline;
+  align-items: center;
  }
 .actlvid{
   border:5px solid #BF5700;
   align-items: center;
+  box-shadow: 3px 3px 3px rgb(122, 122, 122);
 }
 .vid{
   padding-left: 5%;
   align-items: center;
+  
 }
 .map{
   border:5px solid #BF5700;
   background-color: #BF5700;
   padding: 0%;
+  box-shadow: 3px 3px 3px rgb(122, 122, 122);
 }
 #students{
   border:5px solid #BF5700;
   background-color: #BF5700;
   padding: 0%;
+  box-shadow: 3px 3px 3px rgb(122, 122, 122);
 }
 .card{
 margin-bottom: 10%;
@@ -346,6 +356,7 @@ border-radius: 2%;
 background-color: #BF5700;
 color: #fff;
 align-items: center;
+box-shadow: 3px 3px 3px rgb(122, 122, 122);
 }
 hr{
   border-top: 5px dotted #BF5700;
@@ -373,4 +384,7 @@ ul.myUL {
 }
 .link{
   color: #BF5700;
+}
+.txex{
+ width:400px;
 }
